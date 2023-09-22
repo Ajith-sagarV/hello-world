@@ -33,8 +33,7 @@
 
    <h1> Thankyou, Happy Learning modified by Ajith here  </h1>
    <h1> check whether the update is happeing or not </h1>
-   <h1> jenkins - git - maven - ansible - docker  </h1>
-
+   <h1> end to end using ansible </h1>
 
   
 </form>
